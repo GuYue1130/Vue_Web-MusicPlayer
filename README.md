@@ -6,20 +6,15 @@ vue2+vue-router+element UI+axios实现的网页音乐播放器,在完成过程�
 npm install
 ```
 
-### 项目运行 Compiles and hot-reloads for development
+## 项目运行 Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## 项目编译并最小化生产 Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
+## Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
